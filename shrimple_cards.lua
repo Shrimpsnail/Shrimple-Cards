@@ -11,6 +11,9 @@ function SMODS.INIT.shrimpleCards()
     sendDebugMessage("oh this is not gonna look good with mods")
 
     local tpt_mod = SMODS.findModByID("shrimpleCards")
+
+    
+    local lang_path = SMODS.path.."en_us.lua"
     
 --    local sprite_vouchers = SMODS.Sprite:new("Voucher", tpt_mod.path, "Vouchers.png", 71, 95, "asset_atli")
     local sprite_deck1 = SMODS.Sprite:new("cards_1", tpt_mod.path, "8BitDeck.png", 71, 95, "asset_atli")
@@ -51,6 +54,7 @@ function SMODS.INIT.shrimpleCards()
 --    sprite_jkr:register()
 --    sprite_boost:register()
 --    sprite_blind:register()
+
 end
 
 ----------------------------------------------
