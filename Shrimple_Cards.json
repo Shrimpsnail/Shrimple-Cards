@@ -1,0 +1,10 @@
+{
+  "id": "ShrimpleCards",
+  "name": "ShrimpleCards",
+  "author": ["Shrimpsnail"],
+  "description": "[Not yet] Complete visual overhaul with chunky pixel art style",
+  "prefix": "shrimpcard",
+  "dependencies": ["Steamodded (>=1.0.0~ALPHA-0812d)"],
+  "main_file": "Shrimple.lua",
+  "version": "1.0.0"
+}
