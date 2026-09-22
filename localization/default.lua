@@ -4,7 +4,7 @@ return {
 
         Planet={
             c_ceres={
-                name="Ceres",
+                name="Brittle Hollow",
                 text={
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -13,7 +13,7 @@ return {
                 },
             },
             c_eris={
-                name="eris testing",
+                name="Star Nova",
                 text={
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -22,7 +22,7 @@ return {
                 },
             },
             c_planet_x={
-                name="Planet X",
+                name="The Moon",
                 text={
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
